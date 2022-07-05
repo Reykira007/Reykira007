@@ -29,9 +29,9 @@
 
 <p align="justify">&nbsp;<a href="https://github.com/Reykira007" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reykira007&show_icons=true&locale=en" alt="Reykira007" /></p>
   
-<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=reykira007&" alt="reykira007" /></p>
+<p><img align="justify" src="https://github-readme-streak-stats.herokuapp.com/?user=reykira007&theme=default"/></p>
 
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=reykira007&show_icons=true&locale=en&layout=compact" alt="reykira007" />
+<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reykira007&layout=compact&theme=default&langs_count=12"/>
 </p>
 </a>
 
