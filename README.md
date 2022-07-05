@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Ari Januari 👋
+
+### and here is my stats
+<p align="center"><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reykira007&show_icons=true&include_all_commits=true&theme=default" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reykira007&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reykira007&layout=compact&theme=default&langs_count=12"/><br />
+</p>
 
 <!--
 **Reykira007/Reykira007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
