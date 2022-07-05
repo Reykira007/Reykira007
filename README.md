@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari Januari</h1>
 <h3 align="center">Experienced Software Developer adept in bringin forth expertise in design, installation, testing and maintenance of software systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reykira007&label=Profile%20views&color=0e75b6&style=flat" alt="reykira007" /> </p>
+<p align="left"> <a href="https://github.com/Reykira007" target="blank"><img src="https://komarev.com/ghpvc/?username=reykira007&label=Profile%20views&color=0e75b6&style=flat" alt="reykira007" /> </p>
 
 - 🔭 I’m student at [ISB Atma Luhur](https://www.atmaluhur.ac.id/)
 
