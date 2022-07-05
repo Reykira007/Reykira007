@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reykira007&label=Profile%20views&color=0e75b6&style=flat" alt="reykira007" /> </p>
 
-- 🔭 I’m currently working on [Fire Location Points](https://github.com/Reykira007/012-017-021-150-154-UAS-GA.git)
+- 🔭 I’m student at [ISB Atma Luhur](https://www.atmaluhur.ac.id/)
 
 - 🌱 I’m currently learning **Kotlin, React Native**
 
